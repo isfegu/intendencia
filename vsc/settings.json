@@ -1,0 +1,28 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "window.menuBarVisibility": "default",
+    "window.titleBarStyle": "custom",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Nord",
+    "explorer.confirmDelete": false,
+    "[markdown]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.quickSuggestions": false
+    },
+    "editor.fontSize": 16,
+    "explorer.confirmDragAndDrop": false,
+    "editor.formatOnSave": true,
+    "extensions.ignoreRecommendations": true,
+    "workbench.colorCustomizations": {
+        "[Nord]": {
+            "tab.activeBackground": "#2e3440",
+            "tab.inactiveBackground": "#3b4252",
+            "tab.hoverBackground": "#2e3440"
+        }
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.cursorBlinking": true,
+    "window.zoomLevel": 1
+}
