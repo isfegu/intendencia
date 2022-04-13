@@ -12,7 +12,6 @@
     },
     "editor.fontSize": 16,
     "explorer.confirmDragAndDrop": false,
-    "editor.formatOnSave": true,
     "extensions.ignoreRecommendations": true,
     "workbench.colorCustomizations": {
         "[Nord]": {
@@ -24,5 +23,13 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.formatOnSave": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.occurrencesHighlight": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.selectionHighlight": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
     "window.zoomLevel": 1
 }
