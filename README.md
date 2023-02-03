@@ -32,6 +32,5 @@ Se establecen unas configuraciones y atajos de teclado para Visual Studio Code.
 El script `setup.sh` se encarga de configurar automáticamente el sistema.
 
 ```bash
-$ ./setup.sh
+~ ./setup.sh
 ```
-

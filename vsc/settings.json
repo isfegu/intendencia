@@ -1,35 +1,28 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "window.menuBarVisibility": "default",
-    "window.titleBarStyle": "custom",
+    "editor.fontSize": 18,
     "editor.minimap.enabled": false,
-    "workbench.colorTheme": "Nord",
+    "editor.suggestSelection": "first",
+    "editor.formatOnSave": true,
+    "editor.occurrencesHighlight": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.selectionHighlight": false,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "Ubuntu Mono Regular",
     "explorer.confirmDelete": false,
-    "[markdown]": {
-        "editor.tabSize": 2,
-        "editor.insertSpaces": true,
-        "editor.quickSuggestions": false
-    },
-    "editor.fontSize": 16,
     "explorer.confirmDragAndDrop": false,
     "extensions.ignoreRecommendations": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.fontFamily": "'Ubuntu Mono Regular', monospace",
+    "terminal.integrated.fontSize": 18,
+    "window.menuBarVisibility": "default",
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "Nord",
     "workbench.colorCustomizations": {
         "[Nord]": {
             "tab.activeBackground": "#2e3440",
             "tab.inactiveBackground": "#3b4252",
             "tab.hoverBackground": "#2e3440"
         }
-    },
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.defaultProfile.linux": "bash",
-    "terminal.integrated.fontFamily": "monospace",
-    "editor.formatOnSave": true,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "editor.occurrencesHighlight": false,
-    "editor.renderLineHighlight": "gutter",
-    "editor.selectionHighlight": false,
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "window.zoomLevel": 1
+    }
 }
